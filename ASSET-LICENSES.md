@@ -34,3 +34,6 @@ libphonenumber-js 1.12.31, MIT licence, served locally. Source: https://github.c
 
 ## Country flags
 flag-icons 7.5.0, MIT. SVG files bundled locally under `assets/flags/`; licence in `assets/flags/LICENSE`. Source: https://github.com/lipis/flag-icons .
+
+## Visual redesign assets
+`assets/human.webp` and `assets/research.webp` were created using built-in OpenAI image generation for this redesign. Illustrative fictional scenes; not company facilities or patients. Briefs: compassionate adult hands in warm natural light with navy and teal tones; cinematic macro of unlabelled pharmaceutical research vials with teal refractions. No reference photographs or stock assets used.
