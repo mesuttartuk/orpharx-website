@@ -1,0 +1,335 @@
+{
+  "en": {
+    "nav": [
+      "Home",
+      "About us",
+      "Our focus",
+      "Partnerships",
+      "Our founders",
+      "Contact"
+    ],
+    "hero": "Advancing Access to<br><em>Specialised Medicines</em>",
+    "eyebrow": "SPECIALISED EXPERTISE. LOCAL PERSPECTIVE.",
+    "intro": "OrphaRx is a specialised pharmaceutical company focused on rare diseases, orphan medicines and specialty pharmaceuticals, with a dedicated focus on the Turkish market.",
+    "discover": "Discover OrphaRx",
+    "talk": "Start a conversation",
+    "focusTitle": "A deliberate focus.<br>A meaningful purpose.",
+    "focusIntro": "Specialised therapies deserve specialised expertise. We focus on three closely connected areas of pharmaceutical care.",
+    "focusNames": [
+      "Rare diseases",
+      "Orphan medicines",
+      "Specialty pharmaceuticals"
+    ],
+    "focusShort": [
+      "Therapeutic areas characterised by significant unmet medical needs and specialised treatment pathways.",
+      "Medicines developed for rare and serious conditions, requiring focused therapeutic and commercial expertise.",
+      "Specialised therapies that require targeted healthcare engagement and a focused approach to commercial development."
+    ],
+    "aboutTitle": "Built on pharmaceutical<br><em>experience.</em>",
+    "aboutLead": "Pharmaceutical expertise. Focused on specialised therapies.",
+    "aboutParas": [
+      "OrphaRx was established by pharmaceutical professionals with extensive experience across commercial strategy, business development, sales and marketing, market development and pharmaceutical operations.",
+      "Our structure is intentionally focused: rather than pursuing a broad portfolio, we aim to build a selective portfolio of specialised products where our experience and commercial capabilities can provide meaningful value.",
+      "OrphaRx is being built around this principle: focused expertise, informed decisions and disciplined execution."
+    ],
+    "experience": "Experience across the pharmaceutical value chain",
+    "experienceItems": [
+      "Business development",
+      "Commercial strategy",
+      "Sales & marketing",
+      "Market development",
+      "Product and portfolio evaluation",
+      "Distribution",
+      "Forecasting and commercial planning",
+      "Pharmaceutical operations"
+    ],
+    "purposeTitle": "A focused approach to specialised medicines",
+    "purpose": "Our purpose is to establish a pharmaceutical organisation capable of identifying meaningful opportunities in specialised medicine and developing them with the level of focus they require. We believe that rare disease and specialty pharmaceuticals should be approached with a clear understanding of their therapeutic environment, patient population, healthcare stakeholders and commercial requirements.",
+    "approachTitle": "From product potential<br>to commercial execution.",
+    "approachIntro": "A clear understanding of the therapy, the market and the people who make access possible.",
+    "steps": [
+      "Market assessment",
+      "Commercial strategy",
+      "Distribution & commercial execution",
+      "Sales & marketing"
+    ],
+    "stepText": [
+      "Understanding the therapeutic and competitive environment surrounding the product.",
+      "Defining a focused approach aligned with the product, treatment setting and market opportunity.",
+      "Establishing the appropriate local distribution and commercial structure and supporting its effective implementation.",
+      "Executing targeted commercial activities across relevant healthcare professionals, treatment centres and key accounts."
+    ],
+    "whyTitle": "Specialised medicines.<br><em>Human purpose.</em>",
+    "why": "For patients living with rare and serious diseases, access to appropriate treatment can depend on the availability of specialised therapies and the ability of the healthcare system to reach the right treatment pathways.",
+    "why2": "We believe pharmaceutical companies have a responsibility that extends beyond commercial performance. Our ambition is to contribute to a pharmaceutical ecosystem in which specialised medicines can be appropriately evaluated, responsibly commercialised and made available within the relevant healthcare environment.",
+    "focusPageTitle": "Focused on rare, orphan<br><em>and specialty medicines.</em>",
+    "focusPageIntro": "Our therapeutic focus reflects the areas where specialised pharmaceutical expertise, targeted commercial execution and a clear understanding of the healthcare environment are particularly important.",
+    "focusLong": [
+      "Rare diseases represent a highly specialised area of healthcare, often characterised by complex diagnostic pathways, limited patient populations and concentrated treatment environments. Our interest in this field is driven by the opportunity to support selected therapies where focused pharmaceutical expertise and appropriate commercial execution can contribute to their development in Türkiye.",
+      "Orphan medicines are at the centre of our therapeutic focus. We are interested in selected therapies addressing rare and serious conditions, particularly where a focused commercial organisation can provide the product with the appropriate level of market understanding, distribution capability and commercial attention.",
+      "Our focus also extends to selected specialty pharmaceuticals requiring specialised healthcare engagement, targeted commercial strategies and disciplined market development. We evaluate each opportunity according to its therapeutic characteristics, healthcare environment and strategic fit with OrphaRx."
+    ],
+    "partnerTitle": "Building the right<br><em>partnership for Türkiye.</em>",
+    "partnerIntro": "OrphaRx is open to discussions with pharmaceutical and biotechnology companies seeking to develop the commercial potential of specialised medicines in the Turkish market.",
+    "partnerBody": "We are currently establishing our portfolio and are actively evaluating selected products and partnership opportunities aligned with our therapeutic focus and commercial capabilities. Our objective is not to build a large portfolio, but to establish a focused portfolio of products where we can provide the appropriate level of attention, expertise and commercial execution.",
+    "offer": "A focused local commercial platform",
+    "offerNames": [
+      "Market & product assessment",
+      "Distribution",
+      "Market development",
+      "Sales & marketing",
+      "Commercial planning"
+    ],
+    "offerText": [
+      "Understanding the product, therapeutic environment, competitive dynamics and commercial opportunity.",
+      "Establishing and managing the local distribution structure appropriate to the product.",
+      "Developing product-specific commercial priorities based on the treatment environment and relevant healthcare stakeholders.",
+      "Focused commercial execution across relevant physicians, treatment centres and key accounts.",
+      "Forecasting, resource planning and performance monitoring to support disciplined commercial development."
+    ],
+    "opportunities": "Partnership opportunities",
+    "opNames": [
+      "Distribution partnerships",
+      "Commercialisation partnerships",
+      "In-licensing opportunities",
+      "Strategic product partnerships"
+    ],
+    "opText": [
+      "Exclusive or appropriately structured distribution arrangements for selected products in Türkiye.",
+      "Partnerships focused on developing and executing the local commercial strategy for specialised medicines.",
+      "Selected in-licensing opportunities aligned with our therapeutic focus and commercial capabilities.",
+      "Tailored structures developed around the characteristics and requirements of individual products."
+    ],
+    "lookTitle": "What we look for",
+    "look": [
+      "Rare diseases, orphan medicines and specialty pharmaceuticals",
+      "Differentiated therapies addressing significant medical needs",
+      "Products with a clearly defined treatment environment",
+      "Products requiring focused commercial development in Türkiye"
+    ],
+    "lookNote": "Each opportunity is assessed individually, based on therapeutic relevance, product characteristics, market environment, commercial potential and strategic fit.",
+    "foundersTitle": "Different perspectives.<br><em>A shared purpose.</em>",
+    "foundersIntro": "OrphaRx brings together professionals with backgrounds spanning pharmaceuticals, healthcare, business and senior management. The founding team combines medical, commercial, technical and corporate experience relevant to pharmaceutical opportunities in Türkiye.",
+    "cofounder": "Co-Founder",
+    "bio": "Read biography",
+    "bios": [
+      [
+        "With a career spanning more than four decades, Ziya Akkurt has held senior leadership and board positions across banking, investment banking and different industries in Türkiye and international markets.",
+        "He began his banking career in 1983, progressing through senior positions at leading Turkish and international banks and serving as Chief Executive Officer of a prominent Turkish bank. His international responsibilities later included executive and board positions within Akbank subsidiaries in Germany, Malta, the Netherlands and the United Arab Emirates.",
+        "Since 2012, he has been Chairman of the Board of Nurol Investment Bank. His wider career includes senior management and board positions in manufacturing and other industries. In 2018–2019, he also served as a Board Member in an IFC-related project in Saudi Arabia.",
+        "For OrphaRx, this background provides a senior corporate perspective across strategic decision-making, governance and international business."
+      ],
+      [
+        "Dr. Tuna Yavuz has built a career at the intersection of medicine, pharmaceuticals and healthcare management, with nearly three decades in the sector.",
+        "Following his graduation from Hacettepe University Faculty of Medicine, he pursued further studies in monoclonal antibodies at the University of Manchester in the United Kingdom. His pharmaceutical career began at Sanofi Pasteur, where he served as Medical and Marketing Director.",
+        "He subsequently moved into senior management roles at Abdi İbrahim, with responsibilities in specialty pharmaceuticals, before becoming General Manager of AI Otsuka. His career also includes senior positions at Danone Türkiye and Onfarma.",
+        "This combination of medical training, pharmaceutical experience and commercial management forms an important part of the perspective he brings to OrphaRx and its assessment of opportunities in Türkiye."
+      ],
+      [
+        "Fatma Tartuk has more than 14 years of pharmaceutical experience, moving from analytical research and quality control into business development and pharmaceutical project management.",
+        "Her technical background includes analytical method development, validation, stability studies and CTD documentation. In business development, her work has covered product development, licensing, technology transfer, contract manufacturing and commercial launch planning.",
+        "She has worked across the pharmaceutical product lifecycle, coordinating activities involving R&D, regulatory, manufacturing and commercial functions. Her experience also includes TÜBİTAK-funded R&D projects and CMO coordination.",
+        "At OrphaRx, this combination of technical and business development experience is applied to the evaluation and development of niche and orphan pharmaceutical opportunities for the Turkish market.",
+        ""
+      ]
+    ],
+    "ctaTitle": "Exploring opportunities<br><em>in Türkiye?</em>",
+    "ctaText": "If you are evaluating Türkiye as a potential market for your product, we would be pleased to discuss the opportunity and explore whether OrphaRx could be the right local commercial partner.",
+    "contactTitle": "Let’s start<br><em>a conversation.</em>",
+    "contactIntro": "We welcome enquiries from pharmaceutical and biotechnology companies exploring opportunities for rare disease, orphan and specialty medicines in Türkiye.",
+    "contactText": "Whether you are assessing a potential distribution partnership, commercialisation opportunity or in-licensing opportunity, our team would be pleased to review the product and discuss its potential fit with OrphaRx.",
+    "labels": [
+      "Company",
+      "Full name",
+      "Position",
+      "Email",
+      "Phone",
+      "Product / molecule",
+      "Therapeutic area",
+      "Partnership interest",
+      "Message"
+    ],
+    "optional": "optional",
+    "choose": "Please select",
+    "submit": "Submit enquiry",
+    "emailDraft": "Prepare an email instead",
+    "formNote": "Please share business enquiries only. Do not include patient information or personal medical records.",
+    "formPrivacy": "The information you provide will be used to review and respond to your enquiry.",
+    "formStatus": "Automatic delivery is not active in this preview. You can prepare an email using the button below.",
+    "footer": "Connecting global innovation with the Turkish market.",
+    "footnote": "Corporate information only. This website does not provide medical advice.",
+    "skip": "Skip to content",
+    "menu": "Menu",
+    "rights": "All rights reserved.",
+    "sent": "Your enquiry has been accepted for delivery. Thank you for contacting OrphaRx.",
+    "error": "Your message could not be sent. Your entries are preserved. Please use the email option below.",
+    "sending": "Sending…",
+    "draftStatus": "An email draft was requested in your email application. Your message has not been sent automatically."
+  },
+  "tr": {
+    "nav": [
+      "Ana sayfa",
+      "Hakkımızda",
+      "Odak alanlarımız",
+      "İş birlikleri",
+      "Kurucularımız",
+      "İletişim"
+    ],
+    "hero": "Uzmanlık gerektiren<br>tedavilere <em>erişim için.</em>",
+    "eyebrow": "UZMANLAŞMIŞ YAKLAŞIM. YEREL DENEYİM.",
+    "intro": "OrphaRx, Türkiye pazarında nadir hastalıklar, yetim ilaçlar ve özel uzmanlık gerektiren farmasötik ürünlere odaklanan bir ilaç şirketidir.",
+    "discover": "OrphaRx’i keşfedin",
+    "talk": "Bizimle iletişime geçin",
+    "focusTitle": "Belirgin bir odak.<br>Anlamlı bir amaç.",
+    "focusIntro": "Uzmanlık gerektiren tedaviler, uzmanlaşmış bir yaklaşımı hak eder. Birbiriyle bağlantılı üç temel alana odaklanıyoruz.",
+    "focusNames": [
+      "Nadir hastalıklar",
+      "Yetim ilaçlar",
+      "Özel uzmanlık gerektiren ilaçlar"
+    ],
+    "focusShort": [
+      "Karşılanmamış önemli tıbbi ihtiyaçların ve uzmanlaşmış tedavi süreçlerinin öne çıktığı alanlar.",
+      "Nadir ve ciddi hastalıklar için geliştirilen, terapötik ve ticari uzmanlık gerektiren ilaçlar.",
+      "Sağlık profesyonelleriyle hedefli etkileşim ve odaklanmış ticari gelişim yaklaşımı gerektiren tedaviler."
+    ],
+    "aboutTitle": "İlaç sektörü deneyimi<br><em>üzerine kuruldu.</em>",
+    "aboutLead": "İlaç sektöründe deneyim. Uzmanlık gerektiren tedavilere odak.",
+    "aboutParas": [
+      "OrphaRx; ticari strateji, iş geliştirme, satış ve pazarlama, pazar geliştirme ve ilaç sektörü operasyonlarında kapsamlı deneyime sahip profesyoneller tarafından kuruldu.",
+      "Yapımızı bilinçli olarak odaklı tutuyoruz. Geniş bir portföy yerine, deneyimimizin ve ticari yetkinliklerimizin anlamlı değer sağlayabileceği seçilmiş, uzmanlık gerektiren ürünlerden oluşan bir portföy oluşturmayı amaçlıyoruz.",
+      "OrphaRx’i bu ilke üzerine inşa ediyoruz: odaklanmış uzmanlık, bilgiye dayalı kararlar ve disiplinli uygulama."
+    ],
+    "experience": "İlaç sektörünün değer zinciri boyunca deneyim",
+    "experienceItems": [
+      "İş geliştirme",
+      "Ticari strateji",
+      "Satış ve pazarlama",
+      "Pazar geliştirme",
+      "Ürün ve portföy değerlendirme",
+      "Dağıtım",
+      "Tahminleme ve ticari planlama",
+      "İlaç sektörü operasyonları"
+    ],
+    "purposeTitle": "Uzmanlık gerektiren ilaçlara odaklı yaklaşım",
+    "purpose": "Amacımız, uzmanlık gerektiren ilaçlar alanındaki anlamlı fırsatları belirleyebilen ve bu fırsatları ihtiyaç duydukları odakla geliştirebilen bir ilaç şirketi oluşturmaktır. Nadir hastalıklar ve özel uzmanlık gerektiren ilaçların; tedavi ortamı, hasta popülasyonu, sağlık paydaşları ve ticari gereksinimleri doğru anlaşılarak ele alınması gerektiğine inanıyoruz.",
+    "approachTitle": "Ürün potansiyelinden<br>ticari uygulamaya.",
+    "approachIntro": "Tedaviyi, pazarı ve erişimi mümkün kılan paydaşları birlikte değerlendiriyoruz.",
+    "steps": [
+      "Pazar değerlendirmesi",
+      "Ticari strateji",
+      "Dağıtım ve ticari uygulama",
+      "Satış ve pazarlama"
+    ],
+    "stepText": [
+      "Ürünün yer aldığı tedavi alanını ve rekabet ortamını anlamak.",
+      "Ürün, tedavi ortamı ve pazar fırsatıyla uyumlu, odaklı bir yaklaşım belirlemek.",
+      "Uygun yerel dağıtım ve ticari yapıyı kurmak, etkin biçimde uygulanmasını desteklemek.",
+      "İlgili sağlık profesyonelleri, tedavi merkezleri ve kilit müşterilere yönelik ticari faaliyetleri yürütmek."
+    ],
+    "whyTitle": "Uzmanlaşmış tedaviler.<br><em>İnsan odaklı bir amaç.</em>",
+    "why": "Nadir ve ciddi hastalıklarla yaşayan kişiler için uygun tedaviye erişim, uzmanlık gerektiren tedavilerin bulunabilirliğine ve sağlık sisteminin doğru tedavi süreçlerine ulaşabilmesine bağlı olabilir.",
+    "why2": "İlaç şirketlerinin sorumluluğunun ticari performansın ötesine uzandığına inanıyoruz. Amacımız; uzmanlık gerektiren ilaçların uygun biçimde değerlendirildiği, sorumlu bir ticari yaklaşımla ele alındığı ve ilgili sağlık sistemi içinde sunulabildiği bir ekosisteme katkıda bulunmaktır.",
+    "focusPageTitle": "Nadir hastalıklar, yetim ilaçlar<br><em>ve uzmanlaşmış tedaviler.</em>",
+    "focusPageIntro": "Terapötik odağımız; ilaç sektörü uzmanlığının, hedefli ticari uygulamanın ve sağlık ortamını doğru anlamanın özellikle önemli olduğu alanları yansıtır.",
+    "focusLong": [
+      "Nadir hastalıklar; karmaşık tanı süreçleri, sınırlı hasta popülasyonları ve belirli merkezlerde yoğunlaşan tedavi ortamlarıyla öne çıkan, ileri uzmanlık gerektiren bir sağlık alanıdır. Bu alandaki ilgimiz, odaklanmış ilaç sektörü uzmanlığı ve uygun ticari uygulamalarla seçilmiş tedavilerin Türkiye’deki gelişimini destekleme fırsatından kaynaklanır.",
+      "Yetim ilaçlar, terapötik odağımızın merkezindedir. Özellikle odaklı bir ticari organizasyonun doğru pazar bilgisi, dağıtım yetkinliği ve ticari ilgiyi sağlayabileceği, nadir ve ciddi hastalıklara yönelik seçilmiş tedavilerle ilgileniyoruz.",
+      "Odağımız; sağlık profesyonelleriyle uzmanlaşmış etkileşim, hedefli ticari stratejiler ve disiplinli pazar geliştirme gerektiren seçilmiş ilaçları da kapsar. Her fırsatı terapötik özellikleri, sağlık ortamı ve OrphaRx’in stratejisiyle uyumu çerçevesinde değerlendiriyoruz."
+    ],
+    "partnerTitle": "Türkiye için<br><em>doğru iş birliği.</em>",
+    "partnerIntro": "OrphaRx, uzmanlık gerektiren ilaçların Türkiye pazarındaki ticari potansiyelini geliştirmek isteyen ilaç ve biyoteknoloji şirketleriyle görüşmelere açıktır.",
+    "partnerBody": "Portföyümüzü oluşturuyor; terapötik odağımız ve ticari yetkinliklerimizle uyumlu seçilmiş ürünleri ve iş birliği fırsatlarını aktif olarak değerlendiriyoruz. Hedefimiz geniş bir portföy değil; her ürüne gereken ilgiyi, uzmanlığı ve ticari uygulama gücünü sunabileceğimiz odaklı bir portföydür.",
+    "offer": "Odaklı bir yerel ticari yapı",
+    "offerNames": [
+      "Pazar ve ürün değerlendirmesi",
+      "Dağıtım",
+      "Pazar geliştirme",
+      "Satış ve pazarlama",
+      "Ticari planlama"
+    ],
+    "offerText": [
+      "Ürünü, tedavi ortamını, rekabet dinamiklerini ve ticari fırsatı anlamak.",
+      "Ürüne uygun yerel dağıtım yapısını kurmak ve yönetmek.",
+      "Tedavi ortamı ve ilgili sağlık paydaşları temelinde ürüne özgü ticari öncelikler geliştirmek.",
+      "İlgili hekimler, tedavi merkezleri ve kilit müşteriler nezdinde odaklı ticari uygulamalar yürütmek.",
+      "Disiplinli ticari gelişimi desteklemek için tahminleme, kaynak planlaması ve performans takibi yapmak."
+    ],
+    "opportunities": "İş birliği fırsatları",
+    "opNames": [
+      "Dağıtım iş birlikleri",
+      "Ticarileştirme iş birlikleri",
+      "Lisanslama fırsatları",
+      "Stratejik ürün iş birlikleri"
+    ],
+    "opText": [
+      "Türkiye’de seçilmiş ürünler için münhasır veya uygun biçimde yapılandırılmış dağıtım anlaşmaları.",
+      "Uzmanlık gerektiren ilaçlar için yerel ticari stratejinin geliştirilmesine ve uygulanmasına odaklanan iş birlikleri.",
+      "Terapötik odağımız ve ticari yetkinliklerimizle uyumlu seçilmiş lisans alma fırsatları.",
+      "Her ürünün özellikleri ve gereksinimleri doğrultusunda oluşturulan özel yapılar."
+    ],
+    "lookTitle": "Değerlendirdiğimiz fırsatlar",
+    "look": [
+      "Nadir hastalıklar, yetim ilaçlar ve özel uzmanlık gerektiren ilaçlar",
+      "Önemli tıbbi ihtiyaçlara yönelik farklılaşmış tedaviler",
+      "Tedavi ortamı net biçimde tanımlanmış ürünler",
+      "Türkiye’de odaklı ticari gelişim gerektiren ürünler"
+    ],
+    "lookNote": "Her fırsat; terapötik uygunluk, ürün özellikleri, pazar ortamı, ticari potansiyel ve stratejik uyum temelinde ayrı ayrı değerlendirilir.",
+    "foundersTitle": "Farklı deneyimler.<br><em>Ortak bir amaç.</em>",
+    "foundersIntro": "OrphaRx; ilaç, sağlık, iş dünyası ve üst düzey yönetim alanlarında deneyime sahip profesyonelleri bir araya getirir. Kurucu ekip, Türkiye’deki ilaç sektörü fırsatlarına katkı sağlayan tıbbi, ticari, teknik ve kurumsal deneyimi buluşturur.",
+    "cofounder": "Kurucu Ortak",
+    "bio": "Özgeçmişi okuyun",
+    "bios": [
+      [
+        "Kırk yılı aşkın kariyeri boyunca Ziya Akkurt, Türkiye’de ve uluslararası pazarlarda bankacılık, yatırım bankacılığı ve farklı sektörlerde üst düzey yöneticilik ve yönetim kurulu görevleri üstlenmiştir.",
+        "Bankacılık kariyerine 1983 yılında başlamış, önde gelen Türk ve uluslararası bankalarda üst düzey görevlerde bulunmuş ve Türkiye’nin önde gelen bankalarından birinin genel müdürlüğünü yürütmüştür. Uluslararası sorumlulukları arasında Akbank’ın Almanya, Malta, Hollanda ve Birleşik Arap Emirlikleri’ndeki iştiraklerinde yönetici ve yönetim kurulu görevleri yer almıştır.",
+        "2012 yılından bu yana Nurol Yatırım Bankası Yönetim Kurulu Başkanıdır. Kariyeri, üretim ve diğer sektörlerde üst düzey yönetim ve yönetim kurulu görevlerini de kapsar. 2018–2019 yıllarında Suudi Arabistan’da IFC bağlantılı bir projede yönetim kurulu üyeliği yapmıştır.",
+        "Bu birikim, OrphaRx’e stratejik karar alma, kurumsal yönetim ve uluslararası iş dünyası alanlarında üst düzey bir bakış açısı kazandırır."
+      ],
+      [
+        "Dr. Tuna Yavuz, yaklaşık otuz yıllık sektör deneyimiyle tıp, ilaç ve sağlık yönetiminin kesişiminde bir kariyer inşa etmiştir.",
+        "Hacettepe Üniversitesi Tıp Fakültesinden mezun olduktan sonra Birleşik Krallık’taki Manchester Üniversitesinde monoklonal antikorlar üzerine çalışmalar yapmıştır. İlaç sektörü kariyerine Sanofi Pasteur’de başlamış ve Medikal ve Pazarlama Direktörü olarak görev almıştır.",
+        "Ardından Abdi İbrahim’de özel uzmanlık gerektiren ilaçlar alanında üst düzey yönetim sorumlulukları üstlenmiş, daha sonra AI Otsuka Genel Müdürü olmuştur. Kariyerinde Danone Türkiye ve Onfarma’da üst düzey görevler de bulunmaktadır.",
+        "Tıp eğitimi, ilaç sektörü deneyimi ve ticari yönetim birikimi, OrphaRx’e ve Türkiye’deki fırsatların değerlendirilmesine getirdiği bakış açısının önemli bir parçasıdır."
+      ],
+      [
+        "Fatma Tartuk, analitik araştırma ve kalite kontrolden iş geliştirme ve ilaç projeleri yönetimine uzanan 14 yılı aşkın ilaç sektörü deneyimine sahiptir.",
+        "Teknik birikimi; analitik yöntem geliştirme, validasyon, stabilite çalışmaları ve CTD dokümantasyonunu kapsar. İş geliştirme alanındaki çalışmaları; ürün geliştirme, lisanslama, teknoloji transferi, fason üretim ve ticari lansman planlamasını içerir.",
+        "İlaç ürününün yaşam döngüsü boyunca Ar-Ge, ruhsatlandırma, üretim ve ticari fonksiyonlar arasındaki faaliyetleri koordine etmiştir. TÜBİTAK destekli Ar-Ge projeleri ve fason üretici (CMO) koordinasyonu da deneyimleri arasındadır.",
+        "OrphaRx’te teknik ve iş geliştirme deneyimini, Türkiye pazarı için niş ve yetim ilaç fırsatlarının değerlendirilmesi ve geliştirilmesine taşımaktadır."
+      ]
+    ],
+    "ctaTitle": "Türkiye’deki fırsatları<br><em>birlikte değerlendirelim.</em>",
+    "ctaText": "Ürününüz için Türkiye’yi potansiyel bir pazar olarak değerlendiriyorsanız, fırsatı görüşmek ve OrphaRx’in uygun yerel ticari iş ortağınız olup olamayacağını birlikte incelemek isteriz.",
+    "contactTitle": "Bir görüşmeyle<br><em>başlayalım.</em>",
+    "contactIntro": "Türkiye’de nadir hastalıklar, yetim ilaçlar ve özel uzmanlık gerektiren ilaçlar alanındaki fırsatları değerlendiren ilaç ve biyoteknoloji şirketlerinin başvurularını bekliyoruz.",
+    "contactText": "Dağıtım, ticarileştirme veya lisanslama fırsatlarını değerlendiriyorsanız, ekibimiz ürününüzü incelemek ve OrphaRx ile potansiyel uyumunu görüşmekten memnuniyet duyacaktır.",
+    "labels": [
+      "Şirket",
+      "Ad soyad",
+      "Göreviniz",
+      "E-posta",
+      "Telefon",
+      "Ürün / molekül",
+      "Tedavi alanı",
+      "İş birliği türü",
+      "Mesajınız"
+    ],
+    "optional": "isteğe bağlı",
+    "choose": "Seçiniz",
+    "submit": "Mesajı gönder",
+    "emailDraft": "E-posta uygulamasında hazırlayın",
+    "formNote": "Lütfen yalnızca iş birliği taleplerinizi paylaşın. Hasta bilgisi veya kişisel sağlık kaydı eklemeyin.",
+    "formPrivacy": "Paylaştığınız bilgiler, talebinizi değerlendirmek ve size yanıt vermek için kullanılacaktır.",
+    "formStatus": "Bu ön izlemede otomatik gönderim henüz etkin değil. Aşağıdaki düğmeyle bir e-posta hazırlayabilirsiniz.",
+    "footer": "Küresel yenilikleri Türkiye pazarıyla buluşturuyoruz.",
+    "footnote": "Bu site kurumsal bilgilendirme amaçlıdır. Tıbbi tavsiye sunmaz.",
+    "skip": "İçeriğe geç",
+    "menu": "Menü",
+    "rights": "Tüm hakları saklıdır.",
+    "sent": "Mesajınız gönderilmek üzere kabul edildi. OrphaRx ile iletişime geçtiğiniz için teşekkür ederiz.",
+    "error": "Mesajınız gönderilemedi. Yazdıklarınız korunuyor. Aşağıdaki e-posta seçeneğini kullanabilirsiniz.",
+    "sending": "Gönderiliyor…",
+    "draftStatus": "E-posta uygulamanızda taslak açılması istendi. Mesajınız otomatik olarak gönderilmedi."
+  }
+}
